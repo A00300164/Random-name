@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100530697633",
+    "project_id": "sanjeev-43741",
+    "storage_bucket": "sanjeev-43741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100530697633:android:04a42ce2454347b39687e0",
+        "android_client_info": {
+          "package_name": "com.hanson.sanjeev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb5n-YJsU6a9xI1LS3Gh2MrnHaXhOvO58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
